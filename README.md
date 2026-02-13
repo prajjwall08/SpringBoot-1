@@ -1,2 +1,2 @@
 # SpringBoot-1
-getting input from client through end point (Addresds bar)
+getting multiple input from user from address bar
